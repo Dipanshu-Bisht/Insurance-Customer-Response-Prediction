@@ -1,0 +1,30 @@
+# Ignore model files
+*.pkl
+*.joblib
+tuned_random_forest.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.icp/
+.icp2/
+.icp3/
+.conda/
+.anaconda/
+anaconda3/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+
+# Optional: if you ever save models in a folder
+models/
+checkpoints/
+
