@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="Assets/ui 1" width="45%" />
-  <img src="Assets/ui 2" width="45%" />
+  <img src="Assets/ui 1.png" width="45%" />
+  <img src="Assets/ui 2.png" width="45%" />
 </p>
 
 # 🚗 Insurance Customer Response Prediction
